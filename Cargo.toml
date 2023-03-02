@@ -5,6 +5,7 @@ edition = "2021"
 repository = "https://github.com/alxpettit/cargo-fly"
 tags = ["blazingly_fast", "memes", "cli", "cargo"]
 license = "AGPL-3.0-or-later"
+description = "Cargo can `run`, but running is slow. Rust is 🚀blazingly🚀 fast, and so `cargo` should `fly`"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
